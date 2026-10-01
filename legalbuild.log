@@ -1,0 +1,63 @@
+npm notice run international-standard-secondary-school@0.1.0 build
+npm notice run next build
+   Γû▓ Next.js 15.5.26
+
+   Creating an optimized production build ...
+ Γ£ô Compiled successfully in 8.7s
+   Linting and checking validity of types ...
+   Collecting page data ...
+   Generating static pages (0/49) ...
+   Generating static pages (12/49) 
+   Generating static pages (24/49) 
+   Generating static pages (36/49) 
+ Γ£ô Generating static pages (49/49)
+   Finalizing page optimization ...
+   Collecting build traces ...
+
+Route (app)                                 Size  First Load JS  Revalidate  Expire
+Γöî Γùï /                                      203 B         111 kB
+Γö£ Γùï /_not-found                            161 B         103 kB
+Γö£ Γùï /about                                 203 B         111 kB
+Γö£ Γùï /academics                             203 B         111 kB
+Γö£ Γùï /academics/british-curriculum          203 B         111 kB
+Γö£ Γùï /accessibility                         189 B         106 kB
+Γö£ Γùï /admissions                            188 B         114 kB
+Γö£ Γùï /admissions/apply                    9.15 kB         128 kB
+Γö£ Γùï /boarding                              188 B         114 kB
+Γö£ Γùï /careers                               178 B         109 kB          1h      1y
+Γö£ ╞Æ /careers/application                 7.11 kB         126 kB
+Γö£ ╞Æ /careers/vacancies                     189 B         106 kB
+Γö£ Γùï /complaints                            189 B         106 kB
+Γö£ Γùï /cookie-policy                         189 B         106 kB
+Γö£ Γùï /data-protection                       189 B         106 kB
+Γö£ ╞Æ /events                                203 B         111 kB
+Γö£ ΓùÅ /events/[slug]                         203 B         111 kB          1h      1y
+Γö£   Γö£ /events/placeholder-event-one                                      1h      1y
+Γö£   Γö£ /events/placeholder-event-two                                      1h      1y
+Γö£   Γö£ /events/placeholder-event-three                                    1h      1y
+Γö£   Γöö [+5 more paths]
+Γö£ Γùï /facilities                            203 B         111 kB
+Γö£ Γùï /icon.svg                                0 B            0 B
+Γö£ ╞Æ /news                                 3.1 kB         114 kB
+Γö£ ΓùÅ /news/[slug]                           203 B         111 kB          1h      1y
+Γö£   Γö£ /news/placeholder-story-one                                        1h      1y
+Γö£   Γö£ /news/placeholder-story-two                                        1h      1y
+Γö£   Γö£ /news/placeholder-story-three                                      1h      1y
+Γö£   Γöö [+10 more paths]
+Γö£ Γùï /privacy-policy                        189 B         106 kB
+Γö£ Γùï /robots.txt                            161 B         103 kB
+Γö£ Γùï /safeguarding                          189 B         106 kB
+Γö£ Γùï /school-life                           203 B         111 kB
+Γö£ ╞Æ /search                              3.12 kB         109 kB
+Γö£ Γùï /sitemap.xml                           161 B         103 kB
+Γöö Γùï /terms                                 189 B         106 kB
++ First Load JS shared by all             103 kB
+  Γö£ chunks/1255-0f12d1d68e0b5948.js      46.4 kB
+  Γö£ chunks/4bd1b696-f785427dddbba9fb.js  54.2 kB
+  Γöö other shared chunks (total)             2 kB
+
+
+Γùï  (Static)   prerendered as static content
+ΓùÅ  (SSG)      prerendered as static HTML (uses generateStaticParams)
+╞Æ  (Dynamic)  server-rendered on demand
+

@@ -1,0 +1,8 @@
+npm notice run international-standard-secondary-school@0.1.0 start
+npm notice run next start -p 3114
+   ▲ Next.js 15.5.26
+   - Local:        http://localhost:3114
+   - Network:      http://10.66.134.32:3114
+
+ ✓ Starting...
+ ✓ Ready in 922ms
